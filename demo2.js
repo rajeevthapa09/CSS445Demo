@@ -1,0 +1,1 @@
+let i = "this is demo2.js"
